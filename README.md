@@ -15,7 +15,7 @@ Apache Camel is a powerful open-source integration framework that allows you to 
 To start exploring Camel Playground and experimenting with Apache Camel:
 1. **Clone the Repository**: Clone this Git repository to your local machine using the following command:
    ```
-   git clone https://github.com/your-username/camel-playground.git
+   git clone https://github.com/aolle/camel-playground.git
    ```
 2. **Explore Demos and Examples**: Browse through the directory structure to explore different demos, use cases, examples, and tutorials available in the repository.
 3. **Run Demos**: Follow the instructions provided in each demo's README file to run and test the Camel integration scenarios.
